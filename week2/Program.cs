@@ -1,4 +1,4 @@
 ﻿string userName = "Pratik";
 int luckyNumber = 76;
 
-Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}");
+Console.WriteLine($"Hello, {i}! Your lucky number is {luckyNumber}");
